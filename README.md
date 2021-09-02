@@ -25,7 +25,7 @@ Copy this to the command line:
 
 ## On Windows
 - Download:
-`curl -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/lipsumswek.cmd`
+`curl -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/lipsum-logo.cmd`
 
 - Install:
 Exectue `install.cmd` as administrator
