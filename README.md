@@ -25,7 +25,7 @@ Copy this to the command line:
 
 ## On Windows
 - Download:
-`curl -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/lipsum-logo.cmd -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/install.ps1`
+`curl -O https://raw.githubusercontent.com/Gerryflap/lipsum-logo/master/lipsum-logo.cmd -O https://raw.githubusercontent.com/Gerryflap/lipsum-logo/master/install.ps1`
 
 - Install:
 `PowerShell -ExecutionPolicy Unrestricted -file .\install.ps1`
