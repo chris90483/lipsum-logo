@@ -29,3 +29,6 @@ Copy this to the command line:
 
 - Install:
 Exectue `install.cmd` as administrator
+
+# Usage
+use the command `lipsumswek`
