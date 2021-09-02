@@ -25,10 +25,10 @@ Copy this to the command line:
 
 ## On Windows
 - Download:
-`curl -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/lipsum-logo.cmd -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/install.ps1 -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/install.cmd`
+`curl -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/lipsum-logo.cmd -O https://raw.githubusercontent.com/chris90483/lipsum-logo/master/install.ps1`
 
 - Install:
-Exectue `install.cmd` as administrator
+`PowerShell -ExecutionPolicy Unrestricted -file .\install.ps1`
 
 # Usage
 use the command `lipsum-logo`
