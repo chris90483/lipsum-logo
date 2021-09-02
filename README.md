@@ -31,4 +31,4 @@ Copy this to the command line:
 Exectue `install.cmd` as administrator
 
 # Usage
-use the command `lipsumswek`
+use the command `lipsum-logo`
