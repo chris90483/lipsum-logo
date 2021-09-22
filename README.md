@@ -25,6 +25,7 @@ Copy this to the command line:
 
 ## On Windows
 - Download:
+Uitvoeren in command prompt, Powershell klaagt te veel
 `curl -O https://raw.githubusercontent.com/Gerryflap/lipsum-logo/master/lipsum-logo.cmd -O https://raw.githubusercontent.com/Gerryflap/lipsum-logo/master/install.ps1`
 
 - Install:
